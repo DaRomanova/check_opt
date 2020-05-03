@@ -1,0 +1,5 @@
+PROGRAM pr;
+
+PROCEDURE(*.*.A**) proc(A, a, C: SIGNAL BLOCKFLOAT EXT;);
+BEGIN
+END;

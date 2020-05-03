@@ -1,0 +1,6 @@
+PROGRAM pr;
+
+PROCEDURE(*.*.A**) proc(A, B, C: COMPLEX INTEGER FLOAT;);
+/
+BEGIN
+END;

@@ -1,0 +1,33 @@
+PROGRAM pr;
+
+PROCEDURE(* proc(A, a, C: SIGNAL BLACKFLOAT EXT;);
+BEGIN
+END;
+Lexer: Error(line 3, column 10): Opened comment 
+
+	Lexem table
+1	1	401	PROGRAM
+1	9	1007	pr
+1	11	59	;
+3	1	404	PROCEDURE
+
+	Information tables
+	Identifier table
+SIGNAL		1001
+COMPLEX		1002
+INTEGER		1003
+FLOAT		1004
+BLOCKFLOAT		1005
+EXT		1006
+pr		1007
+	Keywords table
+PROGRAM		401
+BEGIN		402
+END		403
+PROCEDURE		404
+
+	Delimeters table
+;	59
+)	41
+:	58
+,	44
